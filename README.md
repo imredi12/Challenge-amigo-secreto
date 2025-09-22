@@ -47,4 +47,9 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ## INSTALACIÓN
 
-1. Clona el repositorio 
+1. Clona el repositorio
+   - https://github.com/imredi12/Challenge-amigo-secreto
+
+2. Abrir el archivo HTML en tu navegador
+
+3. Hacer el desafío! :) 
