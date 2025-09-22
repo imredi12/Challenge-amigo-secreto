@@ -2,6 +2,8 @@
 
 # 🎁 Amigo Secreto — Web App
 
+<img width="500" height="500" alt="ff043987-239b-4661-bdb1-7f4ca6092c48" src="https://github.com/user-attachments/assets/15fd71df-89b8-4f59-82b7-4d910e2840a7" />
+
 Aplicación web para organizar sorteos de _amigo secreto_: añade participantes a una lista y realiza el sorteo de manera aleatoria.
 
 ### Oracle ONE & Alura Challenge Completado
