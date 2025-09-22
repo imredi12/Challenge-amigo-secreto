@@ -20,6 +20,14 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ---
 
+## CAPTURAS
+
+<img width="948" height="592" alt="Sin título" src="https://github.com/user-attachments/assets/c3fda145-57a4-4171-ae93-d435c125ce16" />
+<img width="936" height="612" alt="Sin título" src="https://github.com/user-attachments/assets/2777d626-7dae-4f7b-853d-ec7c36d8d2c1" />
+<img width="940" height="618" alt="Sin título" src="https://github.com/user-attachments/assets/04a9e717-77dc-4433-99ca-54a4f414b983" />
+
+---
+
 ## FUNCIONALIDADES
 - Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 - Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
